@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    $primary-color:blue;
+    $secondary-color:pink;
+    $altura: calc(400px * 2);
+    .displayContenedor{
+    display: flex;
+    flex-direction: column;
+    }
